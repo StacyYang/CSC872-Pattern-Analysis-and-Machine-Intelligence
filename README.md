@@ -1,6 +1,6 @@
 # CSC872-Pattern-Analysis-and-Machine-Intelligence
 
-## class fastprototype exercise in MATLAB
+## 1. class fastprototype exercise in MATLAB
 ### I. Face Recognition by Eigenface
 
 Image I/O + visualization
@@ -21,7 +21,7 @@ Learn an LDA (Linear Discriminant Analysis) classifier that classifies input ima
 Use both PCA and LDA.
 
 
-## A review of Deep convolutinal networks for object detection
+## 2. A review of Deep convolutinal networks for object detection
 A literature survey based on object detection (R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN)
 The list of papers: 
 - Girshick, R., Donahue, J., Darrell, T. & Malik, J. Rich feature hierarchies for accurate object detection and semantic segmentation. In Proc. Conference on Computer Vision and Pattern Recognition 580–587 (2014). 
